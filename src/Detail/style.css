@@ -1,0 +1,59 @@
+.detail-name{
+    margin-bottom:20px;
+    font-size:1.5rem;
+}
+
+.time-label{
+    margin-bottom:0;
+    font-size:12px;
+}
+
+.time{
+    font-size:12px;
+}
+
+.address-label{
+    margin-bottom:0;
+    font-size:12px;
+}
+
+.address{
+    font-size:12px;
+}
+
+.detail-genre-label{
+    margin-bottom:0;
+    font-size:12px;
+}
+
+.detail-genre{
+    font-size:12px;
+}
+
+.search-route{
+    font-size:14px;
+    color:lightslategray;
+}
+
+.homepage-label{
+    margin-bottom:0;
+    font-size:12px;
+}
+
+.homepage{
+    margin-bottom:0;
+    font-size:12px;
+}
+
+.access-label{
+    margin-bottom:0;
+    font-size: 12px;
+}
+
+.detail-access{
+    font-size: 12px;
+}
+
+.detail-img{
+    border-radius: 5px;
+}
